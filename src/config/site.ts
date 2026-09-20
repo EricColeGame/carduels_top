@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Cards, Builds & Strategy Guides",
   description: "Carduels Wiki provides guides, gameplay information, card strategies, builds, updates, and community resources for players looking to master the game.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://carduels.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://carduels.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@carduels.top",
   gameUrl: "https://www.roblox.com/games/17164680550/Card-Duels",
   heroVideoId: "I_D2k-Kc_qk", // Roblox Card Duels gameplay video
   social: {

@@ -1,12 +1,12 @@
 import Link from "next/link";
+import { redirect } from "next/navigation";
+import { siteConfig } from "@/config/site";
 
 export default function RootPage() {
+  redirect(`/${siteConfig.defaultLocale}`);
   return (
-    <main>
-      <meta httpEquiv="refresh" content="0;url=/en" />
-      <p>
-        Redirecting to <Link href="/en">VV: ULTIMATUM Wiki</Link>…
-      </p>
-    </main>
+    <div>
+      Redirecting to <Link href={`/${siteConfig.defaultLocale}`}>{siteConfig.name}</Link>…
+    </div>
   );
 }
