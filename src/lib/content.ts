@@ -237,39 +237,73 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
   codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guide",
+  vehicles: "Vehicles",
+  combat: "Combat",
+  progression: "Progression",
+  controls: "Controls",
+  updates: "Updates",
+  community: "Community",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+const GROUP_TITLES_DE: Record<string, string> = {
+  codes: "Codes",
+  guide: "Leitfaden",
+  vehicles: "Fahrzeuge",
+  combat: "Kampf",
+  progression: "Fortschritt",
+  controls: "Steuerung",
+  updates: "Updates",
+  community: "Community",
+};
+
+const GROUP_TITLES_ES: Record<string, string> = {
+  codes: "Códigos",
+  guide: "Guía",
+  vehicles: "Vehículos",
+  combat: "Combate",
+  progression: "Progresión",
+  controls: "Controles",
+  updates: "Actualizaciones",
+  community: "Comunidad",
+};
+
+const GROUP_TITLES_FR: Record<string, string> = {
+  codes: "Codes",
+  guide: "Guide",
+  vehicles: "Véhicules",
+  combat: "Combat",
+  progression: "Progression",
+  controls: "Commandes",
+  updates: "Mises à jour",
+  community: "Communauté",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  de: GROUP_TITLES_DE,
+  es: GROUP_TITLES_ES,
+  fr: GROUP_TITLES_FR,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  de: "Übersicht",
+  es: "Resumen",
+  fr: "Vue d'ensemble",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide",
+  "vehicles",
+  "combat",
+  "progression",
+  "controls",
+  "codes",
+  "updates",
+  "community",
 ];
 
 /**

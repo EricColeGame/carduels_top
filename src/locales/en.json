@@ -6,7 +6,16 @@
     "description": "Carduels Wiki provides guides, gameplay information, card strategies, builds, updates, and community resources for players looking to master the game.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "vehicles": "Vehicles",
+    "combat": "Combat",
+    "progression": "Progression",
+    "controls": "Controls",
+    "updates": "Updates",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Carduels Wiki - Cards, Builds & Strategy Guides",
@@ -341,7 +350,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -377,5 +385,37 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "carduels Codes & Rewards",
+    "overviewDescription": "Find the latest working promo codes, free rewards, and redemption steps for carduels."
+  },
+  "guide": {
+    "overviewTitle": "carduels Guides & Walkthroughs",
+    "overviewDescription": "Complete beginner guides, survival tips, and driving tactics to master carduels."
+  },
+  "vehicles": {
+    "overviewTitle": "carduels Vehicles & Cars",
+    "overviewDescription": "Explore vehicle stats, top speed ratings, truck builds, and the best cars in carduels."
+  },
+  "combat": {
+    "overviewTitle": "carduels Combat & Racing",
+    "overviewDescription": "Master demolition tactics, speed duels, crash physics, and arena combat in carduels."
+  },
+  "progression": {
+    "overviewTitle": "carduels Progression & Upgrades",
+    "overviewDescription": "Learn how to earn money fast, unlock new cars, and upgrade vehicle parts in carduels."
+  },
+  "controls": {
+    "overviewTitle": "carduels Controls & Keybinds",
+    "overviewDescription": "Complete control layout and keybindings for PC and mobile players in carduels."
+  },
+  "updates": {
+    "overviewTitle": "carduels Updates & Patch Notes",
+    "overviewDescription": "Stay updated with the latest carduels patch notes, release changes, and game features."
+  },
+  "community": {
+    "overviewTitle": "carduels Community & Social Links",
+    "overviewDescription": "Join the official carduels Discord server, Reddit discussions, and player community."
   }
 }
