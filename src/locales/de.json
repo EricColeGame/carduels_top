@@ -1,1 +1,421 @@
-{}
+{
+  "site": {
+    "name": "Carduels Wiki",
+    "shortName": "Carduels",
+    "tagline": "Karten, Builds & Strategie-Guides",
+    "description": "Carduels Wiki bietet Guides, Gameplay-Informationen, Kartenstrategien, Builds, Updates und Community-Ressourcen für Spieler, die das Spiel meistern möchten.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "vehicles": "Fahrzeuge",
+    "combat": "Kampf",
+    "progression": "Fortschritt",
+    "controls": "Steuerung",
+    "updates": "Updates",
+    "community": "Community"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Carduels Wiki",
+    "about": "Carduels Wiki ist ein unabhängiger Fan-Guide-Hub, der Fortschrittsrouten, Karten, Strategien, Builds und grundlegendes Spielwissen für neue und erfahrene Spieler abdeckt.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Carduels Wiki. Nicht verbunden mit den Spieleentwicklern oder Roblox.",
+    "description": "Carduels Wiki bietet Guides, Gameplay-Informationen, Kartenstrategien, Builds, Updates und Community-Ressourcen für Spieler, die das Spiel meistern möchten.",
+    "playGame": "Carduels spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "vvBuilder": "Carduels Deck-Builder",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Karten-Guides",
+    "bossGuides": "Strategie-Guides",
+    "buildGuide": "Build-Guide",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "codes": {
+    "overviewTitle": "carduels Codes & Belohnungen",
+    "overviewDescription": "Finde die neuesten funktionierenden Promo-Codes, kostenlose Belohnungen und Einlöseschritte für carduels."
+  },
+  "guide": {
+    "overviewTitle": "carduels Guides & Komplettlösungen",
+    "overviewDescription": "Vollständige Einsteiger-Guides, Überlebenstipps und Fahrtaktiken, um carduels zu meistern."
+  },
+  "vehicles": {
+    "overviewTitle": "carduels Fahrzeuge & Autos",
+    "overviewDescription": "Entdecke Fahrzeugwerte, Höchstgeschwindigkeitsbewertungen, Truck-Builds und die besten Autos in carduels."
+  },
+  "combat": {
+    "overviewTitle": "carduels Kampf & Rennen",
+    "overviewDescription": "Meistere Zerstörungstaktiken, Geschwindigkeitsduelle, Crash-Physik und Arenakämpfe in carduels."
+  },
+  "progression": {
+    "overviewTitle": "carduels Fortschritt & Upgrades",
+    "overviewDescription": "Erfahre, wie du schnell Geld verdienst, neue Autos freischaltest und Fahrzeugteile in carduels verbesserst."
+  },
+  "controls": {
+    "overviewTitle": "carduels Steuerung & Tastenbelegung",
+    "overviewDescription": "Vollständiges Steuerungslayout und Tastenbelegungen für PC- und Mobilspieler in carduels."
+  },
+  "updates": {
+    "overviewTitle": "carduels Updates & Patchnotizen",
+    "overviewDescription": "Bleibe auf dem Laufenden mit den neuesten carduels Patchnotizen, Versionsänderungen und Spielfunktionen."
+  },
+  "community": {
+    "overviewTitle": "carduels Community & Soziale Links",
+    "overviewDescription": "Tritt dem offiziellen carduels Discord-Server, Reddit-Diskussionen und der Spielergemeinschaft bei."
+  },
+  "home": {
+    "meta": {
+      "title": "Carduels Wiki - Karten, Builds & Strategie-Guides",
+      "description": "Entdecke das Carduels Wiki mit Karten-Guides, Strategien, Builds, Updates und Gameplay-Ressourcen, die Spielern helfen, Spielmechaniken zu erlernen und ihr Erlebnis zu verbessern."
+    },
+    "hero": {
+      "eyebrow": "Strategisches Kartenspiel-Abenteuer",
+      "title": "Carduels Wiki",
+      "description": "Carduels Wiki bietet Guides, Gameplay-Informationen, Kartenstrategien, Builds, Updates und Community-Ressourcen für Spieler, die das Spiel meistern möchten.",
+      "stats": [
+        "Karten-Datenbank",
+        "Strategie & Builds",
+        "Aktive Codes",
+        "Einsteiger-Guides"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Karten-Rangliste",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Gameplay-Showcase"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Carduels-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne grundlegende Arenasteuerung, verstehe Rot-vs-Blau-Teamziele und meistere die Plattformpositionierung, um frühe Ring-Outs zu vermeiden."
+        },
+        {
+          "number": "2",
+          "title": "Bargeld-Farming",
+          "description": "Entdecke die schnellsten Wege, um durch aufeinanderfolgende Matchsiege, tägliche Quests und aktive Code-Einlösungen Bargeld zu farmen."
+        },
+        {
+          "number": "3",
+          "title": "Werkstatt & Upgrades",
+          "description": "Priorisiere wichtige Fahrzeug-Upgrades, verstärke Stoßstangen und erhöhe die Fahrzeugmasse, um Kollisionen zu dominieren."
+        },
+        {
+          "number": "4",
+          "title": "Sumo-Kampftaktiken",
+          "description": "Meistere Impulsphysik, weiche gegnerischen Anstürmen aus und locke Rivalen über den Arenarand, um entscheidende Siege zu sichern."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Carduels Einsteiger-Guide",
+        "Aktive Codes",
+        "Fahrzeug-Upgrades",
+        "Beste Autos"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Carduels Einsteiger-Guide",
+          "description": "Alles, was du vom ersten Login bis zum Meistern von Sumo-Kollisionen und Plattform-Überleben brauchst.",
+          "href": "/guide/carduels-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Carduels Aktive Codes",
+          "description": "Alle funktionierenden Codes mit kostenlosen Bargeld-Belohnungen zum Aufrüsten deiner Werkstattfahrzeuge.",
+          "href": "/codes/carduels-codes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Fahrzeuge & Tier-Liste",
+          "description": "Vergleiche Autos und Trucks, um die besten Masse- und Stoßstangen-Setups für Arena-Duelle zu finden.",
+          "href": "/vehicles/carduels-best-vehicles"
+        },
+        {
+          "badge": "Guide",
+          "title": "Werkstatt-Upgrades & Tuning",
+          "description": "Priorisiere Stoßstangenstärke und Fahrzeuggewicht, um konkurrierende Fahrer zu übertreffen.",
+          "href": "/progression/carduels-upgrades"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Carduels?",
+      "paragraphs": [
+        "Carduels (Car DUELS) ist ein intensives Fahrzeug-Sumo-Kampfspiel auf Roblox, entwickelt von %100 CARS. Spieler schließen sich der Roten oder Blauen Fraktion an und kämpfen auf erhöhten Plattformen ohne Leitplanken, kollidieren frontal, um Gegner vom Rand der Arena zu stoßen, während sie selbst Halt bewahren.",
+        "Der Sieg erfordert ein Gleichgewicht zwischen reinem Impuls, Fahrzeuggewichtsklassen und taktischer Positionierung. Verdiene Bargeld durch siegreiche Duelle, um neue Autos zu kaufen, Frontstoßstangen zu verstärken und das Handling zu verbessern, um Rivalen in physikbasierten Showdowns auszumanövrieren."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "%100 CARS"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Fahrzeug-Sumo PvP"
+        },
+        {
+          "label": "Gesamtbesuche",
+          "value": "3M+"
+        },
+        {
+          "label": "Aktive Spieler",
+          "value": "3K+"
+        },
+        {
+          "label": "Veröffentlichungsdatum",
+          "value": "Juli 2026"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Carduels Wiki erkunden",
+      "description": "Meistere Fahrzeug-Sumokämpfe auf Roblox mit wichtigen Guides, aktiven Codes, Fahrzeugstatistiken, Werkstatt-Upgrades und Arenakampf-Taktiken.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Carduels Fahrzeug-Guide",
+          "description": "Vollständige Übersicht über verfügbare Autos und Trucks mit Details zu Beschleunigung, Fahrzeugmasse und Handling zur Beherrschung von Kollisionen.",
+          "href": "/vehicles/carduels-vehicles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Supersportwagen",
+              "detail": "Hohe Beschleunigung und agiles Handling für schnelle Flankenstöße und Kantenfluchten."
+            },
+            {
+              "label": "Trucks",
+              "detail": "Massives Fahrgestellgewicht für überlegenen Kollisionswiderstand gegen Rammangriffe."
+            },
+            {
+              "label": "Muscle Cars",
+              "detail": "Hohes Drehmoment auf gerader Strecke, ideal für aggressive Angriffe aus der Ringmitte."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Carduels Einsteiger-Guide",
+          "description": "Schritt-für-Schritt-Einführung zu Arena-Sumo-Mechaniken, Fraktionsbegegnungen und Ring-Out-Überlebenstaktiken.",
+          "href": "/guide/carduels-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wähle dein Rotes oder Blaues Team und bringe dein Fahrzeug in der Arena zum Einsatz."
+            },
+            {
+              "label": "2",
+              "detail": "Halte die Position in der Ringmitte, um plötzlichen Kanten-Rückstößen zu entgehen."
+            },
+            {
+              "label": "3",
+              "detail": "Winkle deine Kollisionsangriffe an, um Gegner seitlich von der Plattform zu stoßen."
+            },
+            {
+              "label": "4",
+              "detail": "Verdiene Bargeldbelohnungen aus Match-Eliminierungen, um dein Fahrzeug aufzurüsten."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Carduels Werkstatt & Upgrades",
+          "description": "Upgrade-Guide mit Details zu Stoßstangenhaltbarkeit, Fahrgestellgewicht und Tuning-Prioritäten für maximale Kollisionswirkung.",
+          "href": "/progression/carduels-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Stoßstangen",
+              "detail": "Verstärkte Frontstoßstangen dämpfen Stöße ab und teilen größere Rückstöße aus."
+            },
+            {
+              "label": "Gewicht",
+              "detail": "Zusätzliche Fahrzeugmasse verhindert, dass dein Auto über die Kante geschoben wird."
+            },
+            {
+              "label": "Reifen",
+              "detail": "Verbesserter Grip steigert die Traktion beim Bremsen an gefährlichen Plattformrändern."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Carduels Fahrzeug-Tier-Liste",
+          "description": "Umfassendes Ranking aller Arenafahrzeuge basierend auf Kollisionskraft, Stabilität und Duell-Gewinnraten.",
+          "href": "/vehicles/carduels-best-vehicles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Schwerlast-Trucks — Maximale Kollisionsmasse und unübertroffener Ring-Out-Widerstand."
+            },
+            {
+              "label": "A",
+              "detail": "Allrad-Rennwagen — Schnelle Erholung und agiles Handling, um schwere Gegner zu umgehen."
+            },
+            {
+              "label": "B",
+              "detail": "Muscle Cars — Hohe Vorwärts-Rammkraft mit moderater Kanten-Erholung."
+            },
+            {
+              "label": "C",
+              "detail": "Einsteiger-Limousinen — Leichte Builds, die ein defensives Spiel im Zentrum erfordern."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Carduels Codes",
+          "description": "Löse aktive Promo-Codes für kostenlose Bargeldboni ein, um Werkstatt-Upgrades und neue Fahrzeuge schneller freizuschalten.",
+          "href": "/codes/carduels-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "welcome",
+              "detail": "Einlösen für 3.000 Gratis-Bargeld",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "like20k",
+              "detail": "Community-Meilenstein-Bonus",
+              "badge": "Ausstehend"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Carduels Kampftaktiken",
+          "description": "Fortgeschrittene Fahrzeugduell-Taktiken inklusive Drift-Manöver, Kanten-Köder und Konter-Rammstrategien.",
+          "href": "/combat/carduels-car-duels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ködern",
+              "detail": "Verleite Gegner zu Höchstgeschwindigkeitsangriffen nahe am Abgrund und weiche im letzten Moment aus."
+            },
+            {
+              "label": "Flankieren",
+              "detail": "Ziele auf das Heck feindlicher Autos, um sie ins Schleudern zu bringen."
+            },
+            {
+              "label": "Bremsen",
+              "detail": "Bremse hart an Plattformrändern, um den Vorwärtsimpuls sofort zu stoppen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Carduels Updates",
+          "description": "Bleibe auf dem Laufenden über Balance-Patches, Arena-Karten-Updates und neue Fahrzeug-Releases von Entwickler %100 CARS.",
+          "href": "/updates/carduels-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sep 2026",
+              "detail": "Physik-Verfeinerungen für Kollisions-Rückstoßkraft und Stoßstangenschadensberechnung."
+            },
+            {
+              "label": "Jul 2026",
+              "detail": "Roblox-Start mit Einführung von Rot-vs-Blau-Teambeschlachten und Einsteiger-Werkstattfahrzeugen."
+            },
+            {
+              "label": "Bevorstehend",
+              "detail": "Geplante Einführung gefährlicher Arena-Stufen und Team-Turniere."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Carduels Community & Steuerung",
+          "description": "Tritt offiziellen Community-Kanälen bei, entdecke Tipps von Spitzenspielern und lerne Tastenbelegungen für jede Plattform.",
+          "href": "/community/carduels-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Schließe dich Fahrerkollegen an, um Duelle zu organisieren und Strategien zu teilen."
+            },
+            {
+              "label": "Steuerung",
+              "detail": "WASD zum Fahren, Leertaste für Handbremse und Shift für Boost-Beschleunigung."
+            },
+            {
+              "label": "Roblox",
+              "detail": "Tritt der offiziellen %100 CARS-Entwicklergruppe für Bonusbelohnungen bei."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Carduels.",
+      "items": [
+        {
+          "question": "Was ist Carduels auf Roblox?",
+          "answer": "Carduels ist ein kostenloses Roblox-Fahrzeug-Sumospiel von %100 CARS, bei dem rote und blaue Teams einander mit aufgerüsteten Werkstattwagen von erhöhten Plattformen rammen."
+        },
+        {
+          "question": "Wie verdiene ich schnell Bargeld in Carduels?",
+          "answer": "In Carduels verdienst du Bargeld durch den Gewinn von Arena-Duellen, Ring-Out-Knockbacks, den Abschluss täglicher Quests und das Einlösen aktiver Promo-Codes."
+        },
+        {
+          "question": "Was sind die besten Upgrades in Carduels?",
+          "answer": "Die besten Werkstatt-Investitionen in Carduels sind verstärkte Frontstoßstangen und Fahrgestellgewichts-Upgrades, die Kollisionskraft und Überlebenschancen maximieren."
+        },
+        {
+          "question": "Wo finde ich aktive Codes für Carduels?",
+          "answer": "Aktive Carduels-Codes werden auf unserer speziellen Codes-Seite aktualisiert und von %100 CARS bei Community-Meilensteinen veröffentlicht."
+        },
+        {
+          "question": "Welche Plattformen und Steuerungen unterstützt Carduels?",
+          "answer": "Carduels unterstützt PC, Mobilgeräte und Konsolen mit intuitiver Fahrsteuerung, Drift-Mechaniken und Boost-Funktionen auf allen Plattformen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Carduels zu dominieren?",
+      "description": "Von Werkstatt-Upgrades bis hin zu kompetitiven Sumo-Duellen bietet unser Community-Wiki kostenlose, aktuelle Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  }
+}
