@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn basic arena controls, understand Red vs Blue team objectives, and master platform positioning to avoid early ring-outs."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Cash Farming",
+          "description": "Discover the fastest ways to farm Cash through consecutive match wins, daily quests, and active code redemptions."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Garage & Upgrades",
+          "description": "Prioritize essential vehicle upgrades, reinforce bumper durability, and increase vehicular mass to dominate collisions."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Carduels."
+          "title": "Sumo Combat Tactics",
+          "description": "Master momentum physics, sidestep opponent charges, and bait rivals off the arena ledge to secure decisive victories."
         }
       ]
     },
@@ -62,78 +62,48 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Carduels Beginner Guide",
+        "Active Codes",
+        "Vehicle Upgrades",
+        "Best Cars"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Carduels Beginner Guide",
+          "description": "Everything you need from your first login to mastering sumo collisions and platform survival.",
+          "href": "/guide/carduels-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Carduels Active Codes",
+          "description": "All working codes with free Cash rewards to upgrade your garage vehicles.",
+          "href": "/codes/carduels-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Best Vehicles & Tier List",
+          "description": "Compare cars and trucks to find the best mass and bumper setups for arena duels.",
+          "href": "/vehicles/carduels-best-vehicles"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Guide",
+          "title": "Garage Upgrades & Tuning",
+          "description": "Prioritize bumper strength and vehicle weight to outmuscle rival drivers.",
+          "href": "/progression/carduels-upgrades"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Carduels?",
       "paragraphs": [
-        "Carduels is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Carduels (Car DUELS) is an intense vehicular sumo combat game on Roblox developed by %100 CARS. Players join either the Red or Blue faction and battle on elevated platforms with no guardrails, colliding head-to-head to knock opponents off the arena edge while maintaining their own footing.",
+        "Victory requires balancing raw momentum, vehicular weight classes, and tactical positioning. Earn Cash from triumphant duels to purchase new cars, reinforce front bumpers, and upgrade handling to outmaneuver rivals in high-stakes physics-driven showdowns."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "%100 CARS"
         },
         {
           "label": "Platform",
@@ -141,158 +111,198 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Vehicle Sumo PvP"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "3M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Active Players",
+          "value": "3K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release Date",
+          "value": "July 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Carduels Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master vehicle sumo battles on Roblox with essential guides, active codes, vehicle stats, garage upgrades, and arena combat tactics.",
       "modules": [
         {
           "order": 1,
-          "name": "Carduels Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/carduels-codes",
-          "displayType": "code-box",
+          "name": "Carduels Vehicles Guide",
+          "description": "Complete overview of available cars and trucks, detailing acceleration, vehicle mass, and handling to dominate collisions.",
+          "href": "/vehicles/carduels-vehicles",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Supercars",
+              "detail": "High acceleration and nimble handling for quick side impacts and edge escapes."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Trucks",
+              "detail": "Massive chassis weight delivering superior collision resistance against rams."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Muscle",
+              "detail": "High straight-line torque ideal for aggressive center-ring charges."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Carduels Beginner Guide",
+          "description": "Step-by-step onboarding covering arena sumo mechanics, faction matchups, and ring-out survival tactics.",
           "href": "/guide/carduels-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Choose your Red or Blue team and deploy your vehicle in the arena."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Maintain center-ring positioning to stay clear of sudden ledge knockbacks."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Angle your collision attacks to knock opponents sideways off the platform."
+            },
+            {
+              "label": "4",
+              "detail": "Earn Cash rewards from match eliminations to upgrade your garage build."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/carduels-tier-list",
-          "displayType": "tier-grid",
+          "name": "Carduels Garage & Upgrades",
+          "description": "Upgrade guide detailing bumper durability, chassis weight, and tuning priorities for maximum collision impact.",
+          "href": "/progression/carduels-upgrades",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Bumpers",
+              "detail": "Reinforced front bumpers absorb incoming impact and deliver greater knockback."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Weight",
+              "detail": "Adding vehicle mass prevents your car from being pushed over arena ledges."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Tires",
+              "detail": "Upgraded grip improves traction when braking near perilous platform edges."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/carduels-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Carduels Vehicle Tier List",
+          "description": "Comprehensive ranking of all arena vehicles based on collision force, stability, and duel win rates.",
+          "href": "/vehicles/carduels-best-vehicles",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Heavy Duty Trucks — Maximum collision mass and unmatched ring-out resistance."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "AWD Racers — Quick recovery and agile handling to outflank heavy hitters."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Muscle Cars — High forward ramming power with moderate edge recovery."
+            },
+            {
+              "label": "C",
+              "detail": "Starter Sedans — Lightweight builds requiring defensive center-ring play."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/carduels-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Carduels Codes",
+          "description": "Redeem active promo codes for free Cash bonuses to unlock garage upgrades and new vehicles faster.",
+          "href": "/codes/carduels-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "welcome",
+              "detail": "Redeem for 3,000 free Cash",
+              "badge": "Active"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
-            },
-            {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "like20k",
+              "detail": "Community milestone bonus",
+              "badge": "Pending"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/carduels-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Carduels Combat Tactics",
+          "description": "Advanced vehicle duel tactics including drift maneuvers, edge baiting, and counter-ramming strategies.",
+          "href": "/combat/carduels-car-duels",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Baiting",
+              "detail": "Trick opponents into full-speed charges near the ledge, then sidestep to let them fall."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Flanking",
+              "detail": "Target the rear quarters of enemy cars to spin them out of control."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Braking",
+              "detail": "Hard brake near platform perimeters to halt forward momentum instantly."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Carduels Updates",
+          "description": "Stay up to date with balance patches, arena map updates, and new car drops from developer %100 CARS.",
+          "href": "/updates/carduels-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sep 2026",
+              "detail": "Physics refinements to collision rebound force and bumper damage calculation."
+            },
+            {
+              "label": "Jul 2026",
+              "detail": "Roblox launch introducing Red vs Blue team battles and starter garage vehicles."
+            },
+            {
+              "label": "Upcoming",
+              "detail": "Scheduled introduction of hazardous arena stages and team tournaments."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Carduels Community & Controls",
+          "description": "Join official community channels, discover tips from top players, and learn keybind controls for every platform.",
+          "href": "/community/carduels-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Join fellow drivers for duel match organizing and strategy sharing."
+            },
+            {
+              "label": "Controls",
+              "detail": "WASD to drive, Space to handbrake, and Shift for boost propulsion."
+            },
+            {
+              "label": "Roblox",
+              "detail": "Join the official %100 CARS developer group for bonus rewards."
             }
           ]
         }
@@ -303,30 +313,30 @@
       "description": "Quick answers to the most common questions about Carduels.",
       "items": [
         {
-          "question": "What is Carduels?",
-          "answer": "Carduels is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Carduels on Roblox?",
+          "answer": "Carduels is a free-to-play Roblox vehicle sumo game by %100 CARS where Red and Blue teams ram each other off elevated platforms using upgraded garage cars."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I earn Cash fast in Carduels?",
+          "answer": "In Carduels, you earn Cash by winning arena duels, scoring ring-out knockbacks, completing daily quests, and redeeming active promo codes."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the best upgrades to buy in Carduels?",
+          "answer": "The best garage investments in Carduels are reinforced front bumpers and chassis weight upgrades, which maximize collision force and survival."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where can I find active codes for Carduels?",
+          "answer": "Active Carduels codes are updated on our dedicated codes page and released by %100 CARS during community milestone events."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms and controls does Carduels support?",
+          "answer": "Carduels supports PC, mobile, and console devices with intuitive driving controls, drift mechanics, and boost features across all platforms."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Carduels?",
-      "description": "From deck building to competitive card duels, our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Dominate Carduels?",
+      "description": "From garage upgrades to competitive sumo duels, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
