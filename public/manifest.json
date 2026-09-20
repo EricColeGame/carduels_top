@@ -1,13 +1,21 @@
 {
-  "name": "VV: ULTIMATUM Wiki",
-  "short_name": "VV Ultimatum",
-  "description": "Fan-made VV: ULTIMATUM Roblox wiki with codes, bosses, builds, races and guides.",
+  "name": "Carduels Wiki",
+  "shortName": "Carduels",
+  "description": "Carduels Wiki provides guides, gameplay information, card strategies, builds, updates, and community resources for players looking to master the game.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#9f4623",
+  "background_color": "#0B1020",
+  "theme_color": "#3b82f6",
   "icons": [
-    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }

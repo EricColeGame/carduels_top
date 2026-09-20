@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Carduels Wiki",
+  shortName: "Carduels",
+  logoText: "C",
+  tagline: "Cards, Builds & Strategy Guides",
+  description: "Carduels Wiki provides guides, gameplay information, card strategies, builds, updates, and community resources for players looking to master the game.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://carduels.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://carduels.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/17164680550/Card-Duels",
+  heroVideoId: "I_D2k-Kc_qk", // Roblox Card Duels gameplay video
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
